@@ -3,7 +3,7 @@ body{
   margin: 0;
   text-align: center;
   font-family: 'Montserrat', sans-serif;
-  font-size: 1.15rem;
+  font-size: 1.75rem;
   background-color: #d9e4dd;
 }
 p{
@@ -16,7 +16,7 @@ hr{
   margin:50px auto;
 }
 .intro{
-  width: 70%;
+  width: 80%;
   font-size: 2rem;
   margin: auto;
   margin-top: 20px;
@@ -91,8 +91,8 @@ h4{
   left: 50%;
 }
 #me-image{
-  width: 15%;
-  height: 15%;
+  width: 22%;
+  height: 22%;
 }
 
 .middle-container{
