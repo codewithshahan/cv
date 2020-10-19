@@ -23,8 +23,10 @@ hr{
   margin-bottom: 10px;
 }
 .text{
-  width: 50%;
+  width: 60%;
   margin: auto;
+  font-family: 'Raleway', sans-serif;
+  font-weight: normal;
 }
 h1{
 margin: 100px auto 0 auto;
@@ -38,12 +40,9 @@ color: #0e918c;
   font-family: 'Piedra', cursive;
   text-decoration: underline;
   font-weight: normal;
-  font-size: 2.45rem;;
+  font-size: 32px;
 }
-.text{
-  font-family: 'Raleway', sans-serif;
-  font-weight: normal;
-}
+
 
 h3{
   font-family: 'Raleway', sans-serif;
@@ -100,7 +99,7 @@ h4{
 }
 a{
   color: #9bdeac; 
-  font-size: 25px;
+  font-size: 2.25rem;
   font-family: 'Raleway', sans-serif;
   margin: 10px 20px;
   text-decoration: none;
@@ -143,7 +142,7 @@ a:hover{
   margin-top: 50px;
 }
 .bottom{
-  width: 70%;
+  width: 90%;
   margin: 40px auto 60px;
   font-family: mono-space,serif,sans-serif;   
 }
