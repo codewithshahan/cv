@@ -12,7 +12,7 @@ p{
 hr{
   border: dotted #fff 6px;
   border-bottom: none;
-  width: 7%;
+  width: 6%;
   margin:50px auto;
 }
 .intro{
@@ -38,27 +38,24 @@ color: #0e918c;
   font-family: 'Piedra', cursive;
   text-decoration: underline;
   font-weight: normal;
-  font-size: 2.25rem;;
+  font-size: 2.45rem;;
 }
 .text{
   font-family: 'Raleway', sans-serif;
   font-weight: normal;
 }
-.bottom{
-  font-family: sans-serif;
-}
 
 h3{
   font-family: 'Raleway', sans-serif;
   color: #03c4a1;
-  font-size: 18px;
+  font-size: 25px; 
 }
 
 
 h2{
     font-family: 'Piedra', sans-serif;
     color: #41aea9;
-    font-size: 25px;
+    font-size: 35px;
     font-weight: normal;
 }
 h4{
@@ -102,7 +99,8 @@ h4{
   padding: 50px 0 20px;
 }
 a{
-  color: #9bdeac; font-size:15px;
+  color: #9bdeac; 
+  font-size: 25px;
   font-family: 'Raleway', sans-serif;
   margin: 10px 20px;
   text-decoration: none;
@@ -112,7 +110,7 @@ a:hover{
 }
 
 .skill-row{
-  width: 70%;
+  width: 60%;
   margin: 100px auto 100px auto;
   text-align: left;
 }
@@ -147,6 +145,7 @@ a:hover{
 .bottom{
   width: 70%;
   margin: 40px auto 60px;
+  font-family: mono-space,serif,sans-serif;   
 }
 
 .btn{
@@ -158,7 +157,7 @@ a:hover{
 	cursor:pointer;
 	color:#ffffff;
   font-family: 'Montserrat', sans-serif;
-	font-size:20px;
+	font-size:30px;
 	font-weight:bold;
 	padding:13px 32px;
 	text-decoration:none;
