@@ -3,7 +3,7 @@ body{
   margin: 0;
   text-align: center;
   font-family: 'Montserrat', sans-serif;
-  font-size: 1.15rem;
+  font-size: 2rem;
   background-color: #d9e4dd;
 }
 p{
@@ -29,7 +29,7 @@ hr{
 h1{
 margin: 100px auto 0 auto;
 font-family: 'Sacramento', cursive;
-font-size: 4.625rem;
+font-size: 5.325rem;
 color: #0e918c;
 }
 
@@ -45,7 +45,7 @@ color: #0e918c;
   font-weight: normal;
 }
 .bottom{
-  font-family: cursive;
+  font-family: sans-serif;
 }
 
 h3{
@@ -90,8 +90,8 @@ h4{
   left: 50%;
 }
 #me-image{
-  width: 15%;
-  height: 15%;
+  width: 18%;
+  height: 18%;
 }
 
 .middle-container{
@@ -102,7 +102,7 @@ h4{
   padding: 50px 0 20px;
 }
 a{
-  color: #9bdeac;
+  color: #9bdeac; font-size:15px;
   font-family: 'Raleway', sans-serif;
   margin: 10px 20px;
   text-decoration: none;
@@ -112,14 +112,14 @@ a:hover{
 }
 
 .skill-row{
-  width: 50%;
+  width: 70%;
   margin: 100px auto 100px auto;
   text-align: left;
 }
 
 .copyright{
   color: #f4f6ff;
-  font-size: 0.75rem;
+  font-size: 0.65rem;
   padding: 20px 0;
 }
 
